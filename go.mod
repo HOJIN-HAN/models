@@ -1,3 +1,3 @@
-module github.com/HOJIN-HAN/app
+module github.com/HOJIN-HAN/models
 
 go 1.14
